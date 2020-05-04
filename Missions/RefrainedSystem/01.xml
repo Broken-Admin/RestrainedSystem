@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="introMission1">
+  <goals>
+    <goal type="getadmin" target="playerrefrainedsystemcommunication"/>
+  </goals>
+  <nextMission>Missions/RefrainedSystem/02.xml</nextMission>
+  <email>
+    <sender>RefrainedSystem</sender>
+    <subject>Welcome to RefrainedSystem</subject>
+    <body>Hello,
+It's good to have you along. When you booted this USB, you joined us.
+Feel free to copy this system over to a more permanent storage medium,
+if you are further interested.
+
+There is a simple task for you, only an introduction to test your aptitude
+with the tool you've been given, it currently sits in the /bin/ directory
+of your system. Find your way into the system given, and we may have more work for you.
+The IP address of the server is attached below.
+
+Learn to use this system and succeed, gaining glory as you rise with
+us. Failure to learn the system and fade into the monotonous life you
+previously lived.
+
+  </body>
+    <attachments>
+      <link comp="playerrefrainedsystemcommunication" />
+    </attachments>
+  </email>
+</mission>

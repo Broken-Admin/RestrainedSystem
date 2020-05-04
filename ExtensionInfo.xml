@@ -1,0 +1,28 @@
+<HacknetExtension>
+  <!-- This project has been abandoned, find the public trello here: https://trello.com/b/ssIPCwwo -->
+  <Language>en-us</Language>
+  
+	<Name>Refrained System</Name>
+	<AllowSaves>true</AllowSaves>
+
+  <StartingMission>Missions/RefrainedSystem/01.xml</StartingMission>
+
+  <!-- SetUp Action -->
+  <StartingActions>Actions/StartingActions.xml</StartingActions>
+
+  <!-- Description that appears within Hacknet -->
+  <Description>Welcome to the world of RefrainedSystem.</Description>
+  
+  <!-- Factions involved in this extension! You can define as many or as few as you like -->
+  <Faction>Factions/RefrainedSystem.xml</Faction>
+   
+  <StartsWithTutorial>False</StartsWithTutorial>
+  
+  <!-- this makes the extension start with the standard restart bootup sequence -->
+  <HasIntroStartup>true</HasIntroStartup>
+  
+  <StartingTheme>HacknetMint</StartingTheme>
+
+  <IntroStartupSong>Irritations</IntroStartupSong>
+
+</HacknetExtension>

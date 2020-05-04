@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer 
+  id="playerrefrainedsystemcommunication"
+  name="Aristotle Comms" 
+  security="1"
+  allowsDefaultBootModule="false">
+
+  <portsForCrack val="1" />
+  <ports>22,80</ports>
+  <trace time="-1" />
+
+  <adminPass pass="ph1l0s0ph3d3t3rr4" />
+
+  <file path="home" name="ReadMe.txt">
+You've proved yourself.. We'll email you shortly.
+For further reference this will be our server to communicate and relay files to you.
+  </file>
+
+</Computer>

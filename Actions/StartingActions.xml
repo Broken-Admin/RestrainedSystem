@@ -1,0 +1,8 @@
+<ConditionalActions>
+
+  <!--<OnAdminGained target="playerrefrainedsystemcommunication">
+    <!-- Player has completed first mission -->
+    <LoadMission MissionName="Missions/RefrainedSystem/02.xml" />-->
+  </OnAdminGained>
+
+</ConditionalActions>

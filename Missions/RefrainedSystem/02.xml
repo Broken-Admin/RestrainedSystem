@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="introMission2">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <email>
+    <sender>Plato</sender>
+    <subject>Completion of Mission One</subject>
+    <body>Excellent work, welcome to RefrainedSystem.
+    
+This project has been abandoned due to lack of creativity in it's owner.
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

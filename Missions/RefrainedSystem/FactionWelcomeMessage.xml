@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="RefrainedWelcome" activeCheck="true">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <email>
+    <sender>Plato</sender>
+    <subject>Welcome</subject>
+    <body>Welcome to RefrainedSystem.</body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

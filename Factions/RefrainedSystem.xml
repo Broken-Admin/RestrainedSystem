@@ -1,0 +1,8 @@
+  <CustomFaction name="RefrainedSystem" id="refrainedsystem" playerVal="0">
+
+
+    <Action ValueRequired="0">
+    </Action>
+
+
+  </CustomFaction>
